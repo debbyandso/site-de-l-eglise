@@ -1,0 +1,36 @@
+body {
+  font-family: "Poppins", sans-serif; }
+
+li a {
+  font-family: "Poppins", sans-serif;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-color: black;
+  font: bold; }
+
+nav {
+  border-bottom: 6px solid #00c8e6; }
+
+.d_flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+
+.col-md-6 {
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
+  max-width: 50%; }
+
+h1 {
+  margin-top: 60px;
+  font-weight: 900; }
+
+.btn_hover {
+  text-align: center; }
+
+.espaces {
+  margin-bottom: 60px; }
+
+/*# sourceMappingURL=style.css.map */
